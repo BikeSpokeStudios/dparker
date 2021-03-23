@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Parker</title>
+    <link>http://bikespokestudios.ca/</link>
+    <description>Recent content on David Parker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Oct 2016 18:25:40 -0300</lastBuildDate><atom:link href="http://bikespokestudios.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>learning hugo</title>
+      <link>http://bikespokestudios.ca/post/learning-hugo/</link>
+      <pubDate>Thu, 20 Oct 2016 18:25:40 -0300</pubDate>
+      
+      <guid>http://bikespokestudios.ca/post/learning-hugo/</guid>
+      <description>I needed to rebuild my business site for Bike Spoke Studios. In the past I had been using a home-made static site written entirely by myself in HTML, CSS and Javascript. It was a bit clunky, and looked a bit like it was from the 1990&amp;rsquo;s. I really like the GIF I used as a logo (a model of an old steam engine), but other than that, I knew it needed updating.</description>
+    </item>
+    
+  </channel>
+</rss>
